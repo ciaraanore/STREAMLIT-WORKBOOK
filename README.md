@@ -1,1 +1,2 @@
 # STREAMLIT-WORKBOOK
+This Streamlit app provides a weather dashboard for Manila, Philippines, fetching 7-day hourly weather data from the Open-Meteo API. It displays various weather metrics, including temperature, humidity, and wind speed, through tables and interactive charts, including line, area, and bar charts using both Streamlit and Altair. Users can explore detailed weather patterns and trends for the upcoming week.
