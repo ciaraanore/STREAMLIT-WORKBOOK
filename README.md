@@ -1,1 +1,2 @@
 # STREAMLIT-WORKBOOK
+This Streamlit app serves as an Employee Management Dashboard, allowing users to view, filter, and add employee records from a MySQL database. It includes authentication via the sidebar, and users can filter employees by department or add new employees with details like name, department, position, and salary. Data is retrieved and managed through SQL queries, and changes are directly applied to the database.
